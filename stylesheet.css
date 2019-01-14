@@ -3,7 +3,6 @@ html, body {
     height: 100%;
     margin: 0px;
     padding: 0px;
-    overflow-x: hidden;
 }
 
 
@@ -72,9 +71,7 @@ nav .navbar-nav li .navlink:focus {
   width: 30vmin;
   margin: 20px auto;
 }
-.row {
-  padding: 0;
-}
+
 .barista {
   width: 100%;
   height: 95vh;
